@@ -1,3 +1,2 @@
-# cCounter
-
+# Counter
 Just a simple counter
